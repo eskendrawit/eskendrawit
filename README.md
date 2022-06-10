@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eskendrawit
 - 👀 I’m interested in Cybersecurity, AWS-Cloud, Linux, and Python
-- 🌱 I’m currently learning Cybersecurity
+- 🌱 I’m currently studying Cybersecurity
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me reach me on linked in https://www.linkedin.com/in/eskendrawit
 
